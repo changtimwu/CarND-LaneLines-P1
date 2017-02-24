@@ -27,19 +27,28 @@ The goals / steps of this project are the following:
 * create a new line segment with the corner points found out in previous step.
 * append the new line segment to the original line segment array 
 
+### Source
+* [ipython notebook](P1_TimWu.ipynb)
+ 
 ### Results of test images
+* solidWhiteCurve
 ![solidWhiteCurve](test_images/solidWhiteCurve_output.jpg)'
+* solidWhiteRight
 ![solidWhiteRight](test_images/solidWhiteRight_output.jpg)'
+* solidYellowCurve
 ![solidYellowCurve](test_images/solidYellowCurve_output.jpg)'
+* solidYellowCurve2
 ![solidYellowCurve2](test_images/solidYellowCurve2_output.jpg)'
+* solidYellowLeft
 ![solidYellowLeft](test_images/solidYellowLeft_output.jpg)'
+* whiteCarLaneSwitch
 ![whiteCarLaneSwitch](test_images/whiteCarLaneSwitch_output.jpg)'
 
 
 ### results of test videos
-* [white.mp4](white.mp4)
-* [yellow.mp4](yellow.mp4)
-* [extra.mp4](extra.mp4)
+* [white.mp4](white.mp4)(click `View Raw` to download) 
+* [yellow.mp4](yellow.mp4)(click `View Raw` to download) 
+* [extra.mp4](extra.mp4)(click `View Raw` to download) 
 
 ###2. Identify potential shortcomings with your current pipeline
 * It can't identify thin lane lines on the far end.
