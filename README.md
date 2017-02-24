@@ -37,9 +37,9 @@ The goals / steps of this project are the following:
 
 
 ### results of test videos
-* ![white.mp4](white.mp4)
-* ![yellow.mp4](yellow.mp4)
-* ![extra.mp4](extra.mp4)
+* [white.mp4](white.mp4)
+* [yellow.mp4](yellow.mp4)
+* [extra.mp4](extra.mp4)
 
 ###2. Identify potential shortcomings with your current pipeline
 * It can't identify thin lane lines on the far end.
